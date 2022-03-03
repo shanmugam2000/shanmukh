@@ -1,2 +1,2 @@
-a=shannu
+a="shannu"
 print(a)
